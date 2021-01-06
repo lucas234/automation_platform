@@ -23,5 +23,3 @@ npm run dev
 ![apis](./images/apis.png)
 
 系统初步草图：![test-ops](./images/test-ops.png)
-
-图片显示不出来参考：http://www.luyixian.cn/news_show_388305.aspx
